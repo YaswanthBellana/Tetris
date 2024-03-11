@@ -23,8 +23,9 @@ This is a Tetris game implemented in Python using the Pygame library. It allows 
 - Game over detection.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
-- [Collaborator Name](https://github.com/collaborator-username)
+- [Preet Raj](https://github.com/Preetraj2002)
+- [Chandni Jha](https://github.com/ChandniJha630)
+- [Dileep Sai](https://www.linkedin.com/in/paila-dileep-sai-194b7222a/)
 
 Feel free to contribute to the project by submitting bug fixes, enhancements, or new features through pull requests.
 
